@@ -1,20 +1,22 @@
-# self-driving-car-NO-LIBS-
+# Self driving car project with no libraries
 Simple app without libraries [machine learning course work]
 
-# 1 - making base mechanics and trying to set all up
+## Plan
 
-# 2 - adding road with signs and rules
+### 1 - Making base mechanics and trying to set all up
 
-# 3 - adding sensors to car[trygonometry and math]
+### 2 - adding road with signs and rules
 
-# 4 - trying to detect obstacles by sensors
+### 3 - adding sensors to car[trygonometry and math]
 
-# 5 - making traffic simulator
+### 4 - trying to detect obstacles by sensors
 
-# 6 - Neutral Network
+### 5 - making traffic simulator
 
-# 7 - Visual of 6 
+### 6 - Neutral Network
 
-# 8 - Optimisation
+### 7 - Visual of 6 
 
-# 9 - Deploy
+### 8 - Optimisation
+
+### 9 - Deploy
