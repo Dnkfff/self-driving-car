@@ -5,6 +5,7 @@ body {
     text-align: center;
 }
 
-#myCanvas{
+#myCanvas {
+    height = 800;
     background: lightgray;
 }
