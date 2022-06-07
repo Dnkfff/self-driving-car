@@ -6,6 +6,7 @@ body {
 }
 
 #myCanvas {
-    height = 800;
+    margin-top: 50px;
+    height = 800px;
     background: lightgray;
 }
