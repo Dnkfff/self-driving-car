@@ -1,4 +1,4 @@
-# Self driving car project with no libraries
+# Self driving car project with REACT!
 Simple app without libraries [machine learning course work]
 
 ## Plan
