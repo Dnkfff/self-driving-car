@@ -19,3 +19,5 @@ class Car {
         ctx.fill();
     }
 }
+
+export { Car };

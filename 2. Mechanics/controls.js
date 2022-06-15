@@ -44,3 +44,5 @@ class Controls {
         }
     }
 }
+
+export { Controls };
